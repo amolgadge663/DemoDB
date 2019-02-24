@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="channel_name">This is Title</string>
+    <string name="channel_description">This is decs</string>
+</resources>
